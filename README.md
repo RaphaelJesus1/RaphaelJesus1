@@ -5,12 +5,28 @@
  He/Him
  
 ## 🚀 Proactive
-Interested in explore new technologies, participate in Tech events and improve my knowledge.<br>
-Web development lover. <br>
+Interested in exploring new technologies, participating in Tech events and improving my knowledge.<br>
+Lover of web development. <br>
 Aiming to reach full stack mode <!-- Emoji descolado, nerd e poderoso -->
 
 ## My tool collection
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SaaS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+<br>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![MySql](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)
+![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
+
+<!-- flat-square  for-the-badge-->
 
 ## :book: What will I study next?
  - C#
