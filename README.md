@@ -26,44 +26,34 @@ Aiming to reach full stack mode <!-- Emoji descolado, nerd e poderoso -->
 ![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 
-<!-- flat-square  for-the-badge-->
-
 ## :book: What will I study next?
  - C#
  - ReactJs
  - Design patterns
  - Mobile development
  - Improve backend knowledge
- 
+
+
+
 ## Where to find me
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/RaphaelJesus1"><img alt="GitHub" title="GitHub" height="32" width="32" src=""></a>
+  <a href="https://github.com/RaphaelJesus1"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/github.svg"></a>
   <!-- E-mail-->
-  <a href="mailto:raphael-mj@hotmail.com"><img alt="E-mail" title="Email" height="32" width="32" src=""></a>
+  <a href="mailto:raphael-mj@hotmail.com"><img alt="E-mail" title="Email" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/outlook.svg"></a>
   <!-- LinkedIn -->
-  <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src=""></a>
+  <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/linkedin.svg"></a>
   <!-- Facebook -->
-  <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="Facebook" title="Facebook" height="32" width="32" src=""></a>
+  <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/facebook.svg"></a>
  <!-- Instagram -->
- <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="Instagram" title="Instagram" height="32" width="32" src=""></a>
+ <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/instagram.svg"></a>
   <!-- Steam -->
-  <a href="https://steamcommunity.com/profiles/76561198148113564/"><img alt="Steam" title="Steam" height="32" width="32" src=""></a>
+  <a href="https://steamcommunity.com/profiles/76561198148113564/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/steam.svg"></a>
   <!-- Discord -->
-  <a href="#"><img alt="Discord - JesusSaves#5502" title="Discord - JesusSaves#5502" height="32" width="32" src=""></a>
-  
+  <a href="#"><img alt="Discord - JesusSaves#5502" title="Discord - JesusSaves#5502" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/discord.svg"></a>
 </p>
-<!--
-**RaphaelJesus1/RaphaelJesus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <sub color="#808080">
+   Social media icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a>
+ </sub>
+</p>
