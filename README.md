@@ -27,10 +27,9 @@ Aiming to reach full stack mode <!-- Emoji descolado, nerd e poderoso -->
 
 
 ## :book: What will I study next?
- - C#
- - ReactJs
+ - Regular Expressions (RegExp)
+ - Flutter
  - Design patterns
- - Mobile development
  - Improve backend knowledge
 
 
