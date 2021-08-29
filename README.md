@@ -8,10 +8,6 @@
  👨‍💻 Fullstack developer
 
 ## My tool collection
-<a align="right" href="https://github.com/RaphaelJesus1">
-  <img align="right" height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJesus1&layout=compact&theme=buefy&border_radius=10&include_all_commits=true&langs_count=6">
-</a>
-
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -25,6 +21,10 @@
 ![JQuery](https://img.shields.io/badge/jQuery-065091?style=flat-square&logo=jquery&logoColor=white)
 ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+<a href="https://github.com/RaphaelJesus1">
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJesus1&layout=compact&theme=buefy&border_radius=10&include_all_commits=true&langs_count=6">
+</a>
 
 ## :book: What will I study next
  - Flutter
