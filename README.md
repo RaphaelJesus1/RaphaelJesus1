@@ -1,11 +1,13 @@
 ## Hey, nice to see you! 👋
 
  Welcome to my page!<br>
- I'm Raphael, a nineteen-year-old cis boy and IT student at ESPM-SP.<br>
+ I'm Raphael, a twenty-year-old cis boy and IT student at ESPM-SP.<br>
  He/Him
  
  :star: Co-founder and developer of [Evolv·e](https://github.com/e-llo/evolv-e)  
  👨‍💻 Fullstack developer
+ 
+ ![StreakStats](https://github-readme-stats.vercel.app/api?username=RaphaelJesus1&theme=github_dark&show_icons=true&hide_border=true&title_color=4ea94b&icon_color=7e002f)
 
 ## My tool collection
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
@@ -24,24 +26,11 @@
 ![MySql](https://img.shields.io/badge/MySQL-0D9996?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-<a href="https://github.com/RaphaelJesus1">
-  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJesus1&layout=compact&theme=buefy&border_radius=10&include_all_commits=true&langs_count=6">
-</a>
-
-![StreakStats](https://github-readme-streak-stats.herokuapp.com/?user=RaphaelJesus1)
-
-## :book: What will I study next
- - React
- - Next.js
- - Improve Node knowledge
- - Design patterns
- - Sass
+![MyLang](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJesus1&layout=compact&theme=github_dark&border_radius=10&include_all_commits=true&langs_count=6&hide_border=true&title_color=4ea94b&icon_color=7e002f)
 
 
 ## Where to find me
 <p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/RaphaelJesus1"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/github.svg"></a>
   <!-- LinkedIn -->
   <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/linkedin.svg"></a>
   <!-- Facebook -->
@@ -50,8 +39,6 @@
  <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/instagram.svg"></a>
   <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561198148113564/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/steam.svg"></a>
-  <!-- Discord -->
-  <a href="#"><img alt="Discord - JesusSaves#5502" title="Discord - JesusSaves#5502" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/discord.svg"></a>
 </p>
 <p align="center">
  <sub color="#808080">
