@@ -1,13 +1,12 @@
 ## Hey, nice to see you! 👋
 
  Welcome to my page!<br>
- I'm Raphael, a twenty-year-old cis boy and IT student at ESPM-SP.<br>
+ I'm Raphael, a twenty two year old cis man and software developer.  
  He/Him
- 
+
+ 🎓 Bachelor in Information Systems from ESPM-SP  
  :star: Co-founder and developer of [Evolv·e](https://github.com/e-llo/evolv-e)  
  👨‍💻 Fullstack developer
- 
- ![StreakStats](https://github-readme-stats.vercel.app/api?username=RaphaelJesus1&theme=github_dark&show_icons=true&hide_border=true&title_color=4ea94b&icon_color=7e002f)
 
 ## My tool collection
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
@@ -33,8 +32,6 @@
 <p align="center">
   <!-- LinkedIn -->
   <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/linkedin.svg"></a>
-  <!-- Facebook -->
-  <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/facebook.svg"></a>
  <!-- Instagram -->
  <a target="_blank" href="www.linkedin.com/in/raphael-menezes-jesus"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://raw.githubusercontent.com/RaphaelJesus1/RaphaelJesus1/main/img/instagram.svg"></a>
   <!-- Steam -->
